@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BlueCarbon"]
+	path = BlueCarbon
+	url = https://github.com/ecologyr/bluecarbon
 [submodule "labeleR"]
 	path = labeleR
 	url = https://github.com/ecologyr/labeler
