@@ -14,3 +14,7 @@
 [submodule "mappestRisk"]
 	path = mappestRisk
 	url = https://github.com/EcologyR/mappestRisk
+[submodule "rTPC"]
+	path = rTPC
+	url = https://github.com/padpadpadpad/rTPC
+	registered = false
