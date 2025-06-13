@@ -1,10 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ecologyr/ecologyr.r-universe.dev
 	branch = HEAD
 [submodule "BlueCarbon"]
 	path = BlueCarbon
-	url = https://github.com/ecologyr/bluecarbon
+	url = https://github.com/EcologyR/BlueCarbon
+[submodule "RecruitNetP"]
+	path = RecruitNetP
+	url = https://github.com/EcologyR/RecruitNetP
 [submodule "labeleR"]
 	path = labeleR
-	url = https://github.com/ecologyr/labeler
+	url = https://github.com/EcologyR/labeleR
+[submodule "mappestRisk"]
+	path = mappestRisk
+	url = https://github.com/EcologyR/mappestRisk
